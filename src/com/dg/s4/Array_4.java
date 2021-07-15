@@ -12,7 +12,7 @@ public class Array_4 {
 			
 		
 	for(int i=0;i<ar2.length;i++) {
-			if(i<3) {
+			if(i<ar1.length) {
 			ar2[i] = ar1[i];
 			}else{
 				ar2[i] = 4;
